@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Nike",
+        "surname": "Addidas",
+        "age": 71,
+        "country": "USA"
+    },
+    {
+        "name": "Carl",
+        "surname": "Sagan",
+        "age": 34,
+        "country": "Canada"
+    },
+    {
+        "name": "Emma",
+        "surname": "Watson",
+        "age": 20,
+        "country": "France"
+    },
+    {
+        "name": "Will",
+        "surname": "Smith",
+        "age": 40,
+        "country": "Russia"
+    },
+    {
+        "name": "Joseph",
+        "surname": "Stalin",
+        "age": 3000,
+        "country": "SAR"
+    },
+    {
+        "name": "Nicolas",
+        "surname": "Cage",
+        "age": -13,
+        "country": "Mesopotamia"
+    },
+    {
+        "name": "Hello",
+        "surname": "World",
+        "age": 100,
+        "country": "Belarus"
+    },
+    {
+        "name": "Chetki",
+        "surname": "Chel",
+        "age": 101,
+        "country": "Padik"
+    },
+    {
+        "name": "Barbi",
+        "surname": "Doll",
+        "age": 26,
+        "country": "Disneyland"
+    },
+    {
+        "name": "D",
+        "surname": "W",
+        "age": 4,
+        "country": "Hahah"
+    }
+]

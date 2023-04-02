@@ -1,0 +1,37 @@
+
+<ul>
+    <li>
+        <div><p>
+            name
+        </p></div>
+        <div><p>
+            surname
+        </p></div>
+        <div><p>
+            age
+        </p></div>
+        <div><p>
+            country
+        </p></div>
+    </li>
+    <!-- <% data = JSON.parse(data) %> -->
+        <% for(let i = 0; i < data.length; i++){ %>
+            <li>
+                <div><p>
+                    <%= data[i].name %>
+                </p></div>
+                <div><p>
+                    <%= data[i].surname %>
+                </p></div>
+                <div><p>
+                    <%= data[i].age %>
+                </p></div>
+                <div><p>
+                    <%= data[i].country %>
+                </p></div>
+            </li>
+        <% } %>
+        <% console.log(data) %>
+        <% console.log(data.length) %>
+        <% console.log(typeof data) %>
+</ul>
